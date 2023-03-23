@@ -10,7 +10,7 @@ Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas
  </h5> 
 
 <h2> 🎯 Objetivo </h2>
-A ideia aqui e começar com o desenvolviemnto de lojas virtuais utilizando o Bootstrap5.
+Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude os usuarios a economizar e ao mesmo tempo investir em ativos e ações que almentem seus ganhos com baixos riscos.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
