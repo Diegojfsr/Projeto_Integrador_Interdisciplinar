@@ -5,9 +5,12 @@ Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas
 
 <h1> Sejam bem-vindos!!!</h1>
 <h3>Esse é o meu repositorio do Projeto Integrador Interdisciplinar.</h3>
+<h5> 
+ Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSMG.
+ </h5> 
 
 <h2> 🎯 Objetivo </h2>
-Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSMG.
+A ideia aqui e começar com o desenvolviemnto de lojas virtuais utilizando o Bootstrap5.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
