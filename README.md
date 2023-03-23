@@ -4,7 +4,7 @@ Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas
 -->
 
 <h1> Sejam bem-vindos!!!</h1>
-<h3>Esse é o meu repositorio do Projeto Integrador Interdisciplinar.</h3>
+<h3>Esse é o meu repositório do Projeto Integrador Interdisciplinar.</h3>
 <h5> 
  Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSMG.
  </h5> 
