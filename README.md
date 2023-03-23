@@ -4,26 +4,16 @@ Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas
 -->
 
 <h1> Sejam bem-vindos!!!</h1>
-
 <h3>Esse é o meu repositorio do Projeto Integrador Interdisciplinar.</h3>
 
-<h4> 
-Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSMG.
-</h4>
-
-
 <h2> 🎯 Objetivo </h2>
-A ideia aqui e começar com o desenvolviemnto de lojas virtuais utilizando o Bootstrap5.
+Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSMG.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
- <li> Preparação do Projeto e a Barra de Navegação. <a href="https://">Acessar</a> </li>
- <li> Rodapé e Banner Rotativo <a href="https://"> Acessar </a> </li>
- <li> Listagem de Produtos. <a href="https://"> Acessar </a> </li>
- <li> Página Modelo e Quatro Novas Páginas. <a href="https://"> Acessar </a> </li>
- <li> Página de Cadastro de Cliente. <a href="https://"> Acessar </a> </li>
- <li> Página de Contato, Login e Carrinho de Compras. <a href="https://"> Acessar </a> </li>
- <li> Design de Loja Virtual Responsiva Completa com Bootstrap 5 no Visual Studio Code. <a href="https://"> Acessar </a> </li>
+ <li> Preparação do Projeto. <a href="https://">Acessar</a> </li>
+ <li> Pesquisas e anotações. <a href="https://"> Acessar </a> </li>
+ <li> Páginas e Modelos. <a href="https://"> Acessar </a> </li>
  
 </ul>
 
