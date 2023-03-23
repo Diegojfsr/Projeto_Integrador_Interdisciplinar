@@ -38,21 +38,6 @@ A ideia aqui e começar com o desenvolviemnto de lojas virtuais utilizando o Boo
 </ul>
 
 
-<h2 dir="auto"> 👩🏻‍💻 Comandos Úteis </h2>
-<ul dir="auto">
-  <li><a href="https://"> Comando 1. </a></li>
-  <li><a href="https://"> Comando 2. </a></li>
-  <li><a href="https://"> Comando 3. </a></li>
-  
-</ul>
-
-<h2 dir="auto"> 💼 Repositórios Úteis </h2>
-<ul dir="auto">
-  <li><a href="https://"> Repositório 1. </a></li>
-  <li><a href="https://"> Repositório 2. </a></li>
-  <li><a href="https://"> Repositório 3. </a></li>
-  
-</ul>
 
 <h2 dir="auto"> 📺 Videos Úteis </h2>
 <ul dir="auto">
@@ -71,6 +56,21 @@ A ideia aqui e começar com o desenvolviemnto de lojas virtuais utilizando o Boo
 </ul>
 
 
+<h2 dir="auto"> 👩🏻‍💻 Comandos Úteis </h2>
+<ul dir="auto">
+  <li><a href="https://"> Comando 1. </a></li>
+  <li><a href="https://"> Comando 2. </a></li>
+  <li><a href="https://"> Comando 3. </a></li>
+  
+</ul>
+
+<h2 dir="auto"> 💼 Repositórios Úteis </h2>
+<ul dir="auto">
+  <li><a href="https://"> Repositório 1. </a></li>
+  <li><a href="https://"> Repositório 2. </a></li>
+  <li><a href="https://"> Repositório 3. </a></li>
+  
+</ul>
 
 
 
