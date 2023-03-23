@@ -41,7 +41,7 @@ A ideia aqui e começar com o desenvolviemnto de lojas virtuais utilizando o Boo
 
 <h2 dir="auto"> 📺 Videos Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://"> Video 1. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=z7DJdwSvgzE"> ADA - Como aplicar machine learning em finanças? </a></li>
   <li><a href="https://"> Video 2. </a></li>
   <li><a href="https://"> Video 3. </a></li>
   
