@@ -31,8 +31,8 @@ A ideia aqui e começar com o desenvolviemnto de lojas virtuais utilizando o Boo
 
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://"> Link 1. </a></li>
-  <li><a href="https://"> Link 2. </a></li>
+  <li><a href="https://cantarinobrasileiro.com.br/blog/4-aplicacoes-praticas-do-machine-learning-no-setor-financeiro/">Aplicações práticas do machine learning no setor financeiro.</a></li>
+  <li><a href="https://blog.dsacademy.com.br/10-casos-de-uso-de-machine-learning-em_financas/">Casos de Uso de Machine Learning em Finanças.</a></li>
   <li><a href="https://"> Link 3. </a></li>
   
 </ul>
