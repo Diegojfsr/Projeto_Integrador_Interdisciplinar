@@ -43,7 +43,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 <ul dir="auto">
   <li><a href="https://www.youtube.com/watch?v=z7DJdwSvgzE"> ADA - Como aplicar machine learning em finanças? </a></li>
   <li><a href="https://www.youtube.com/watch?v=CvfAx3_nGME&t=2s"> Codifique - Machine Learning Prevendo preço das ações na bolsa ( Python para finanças) </a></li>
-  <li><a href="https://"> Video 3. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=lK8ANM7VkNU"> Nerd dos Dados - Como calcular o CREDIT SCORE com modelo de Machine Learning. </a></li>
   
 </ul>
 
