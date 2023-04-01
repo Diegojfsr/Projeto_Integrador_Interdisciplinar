@@ -54,6 +54,14 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   
 </ul>
 
+<h2 dir="auto"> 💼 Repositórios Úteis </h2>
+<ul dir="auto">
+  <li><a href="https://github.com/otavio-s-s/data_science/blob/master/An%C3%A1lise%20de%20Risco%20de%20Cr%C3%A9dito%20com%20Machine%20Learning.ipynb"> Análise de Risco de Crédito com Machine Learning. </a></li>
+  <li><a href="https://"> Repositório 2. </a></li>
+  <li><a href="https://"> Repositório 3. </a></li>
+  
+</ul>
+
 <h2 dir="auto"> 👨🏼‍🏫 Cursos Úteis </h2>
 <ul dir="auto">
   <li><a href="https://"> Código Quant-Finanças Quantitativas - Do ZERO até aplicações para Finanças(Curso de Python Gratuito). </a></li>
@@ -71,13 +79,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   
 </ul>
 
-<h2 dir="auto"> 💼 Repositórios Úteis </h2>
-<ul dir="auto">
-  <li><a href="https://github.com/otavio-s-s/data_science/blob/master/An%C3%A1lise%20de%20Risco%20de%20Cr%C3%A9dito%20com%20Machine%20Learning.ipynb"> Análise de Risco de Crédito com Machine Learning. </a></li>
-  <li><a href="https://"> Repositório 2. </a></li>
-  <li><a href="https://"> Repositório 3. </a></li>
-  
-</ul>
+
 
 
 
