@@ -44,6 +44,10 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://repositorio.unisagrado.edu.br/jspui/bitstream/handle/166/1/INTELIG%C3%8ANCIA%20ARTIFICIAL.pdf">Inteligência Artificial aplicada ao mercado financeiro para tomada de decisão.</a></li>
   <li><a href="https://keroinovar.com.br/inteligencia-artificial-e-experiencia-do-cliente-no-setor-financeiro/">Inteligência Artificial e a experiência do cliente no setor financeiro.</a></li>
  
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <li><a href="https://riconnect.rico.com.vc/blog/investimentos-sem-imposto-renda/"> 7 investimentos sem Imposto de Renda.</a></li>
+
+ 
   
 </ul>
 
