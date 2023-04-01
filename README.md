@@ -37,10 +37,10 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.linkedin.com/pulse/open-banking-e-an%C3%A1lise-de-risco-cr%C3%A9dito-com-machine-learning-vivas/?originalSubdomain=pt">Open Banking e análise de risco de crédito com Machine Learning.</a></li>
   <li><a href="https://ilumeo.com.br/todos-posts/2021/07/20/data-science-para-avaliacao-de-credito">Data Science para avaliação de crédito.</a></li>
   <li><a href="https://towardsdatascience.com/a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f">Uma abordagem de aprendizado de máquina para avaliação de risco de crédito.</a></li>
- <li><a href="https://www.kaggle.com/datasets/laotse/credit-risk-dataset">Conjunto de dados de risco de crédito.</a></li>
- <li><a href="https://webcache.googleusercontent.com/search?q=cache:_zEYhAiihvkJ:https://sol.sbc.org.br/index.php/erigo/article/download/9098/9000/&cd=17&hl=pt-PT&ct=clnk&gl=br">Modelo Preditivo para Avaliação de Crédito em Empréstimos Pessoais.</a></li>
- <li><a href="https://medium.com/data-hackers/machine-learning-para-avalia%C3%A7%C3%A3o-de-risco-de-cr%C3%A9dito-49578b03b4b8">Machine Learning para Avaliação de Risco de Crédito.</a></li>
- 
+  <li><a href="https://www.kaggle.com/datasets/laotse/credit-risk-dataset">Conjunto de dados de risco de crédito.</a></li>
+  <li><a href="https://webcache.googleusercontent.com/search?q=cache:_zEYhAiihvkJ:https://sol.sbc.org.br/index.php/erigo/article/download/9098/9000/&cd=17&hl=pt-PT&ct=clnk&gl=br">Modelo Preditivo para Avaliação de Crédito em Empréstimos Pessoais.</a></li>
+  <li><a href="https://medium.com/data-hackers/machine-learning-para-avalia%C3%A7%C3%A3o-de-risco-de-cr%C3%A9dito-49578b03b4b8">Machine Learning para Avaliação de Risco de Crédito.</a></li>
+  <li><a href="https://repositorio.unb.br/bitstream/10482/1269/1/DISSERTACAO_2008_JorcenilsonPMaia.pdf">Aplicação de Redes Neurais na predição de demanda de crédito no sistema financeiro nacional.</a></li>
   
 </ul>
 
