@@ -35,6 +35,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://blog.dsacademy.com.br/10-casos-de-uso-de-machine-learning-em_financas/">Casos de Uso de Machine Learning em Finanças.</a></li>
   <li><a href="https://novoidealconsultoria.com.br/dicas/aplicativos-para-poupar-dinheiro-agora-mesmo/?pht=36801570733355363&utm_source=google&utm_medium=cpc&utm_campaign=google&gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaWVOEOA6ShuudFq_IJqEKcxe-3_5ouEyk42IlbH225V7fO-WSOWjq4aAjDuEALw_wcB">Aplicativos para poupar dinheiro agora mesmo!</a></li>
   <li><a href="https://www.linkedin.com/pulse/open-banking-e-an%C3%A1lise-de-risco-cr%C3%A9dito-com-machine-learning-vivas/?originalSubdomain=pt">Open Banking e análise de risco de crédito com Machine Learning.</a></li>
+  <li><a href="https://ilumeo.com.br/todos-posts/2021/07/20/data-science-para-avaliacao-de-credito">Data Science para avaliação de crédito.</a></li>
   
 </ul>
 
