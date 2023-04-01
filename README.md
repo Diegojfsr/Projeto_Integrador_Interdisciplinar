@@ -36,6 +36,8 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://novoidealconsultoria.com.br/dicas/aplicativos-para-poupar-dinheiro-agora-mesmo/?pht=36801570733355363&utm_source=google&utm_medium=cpc&utm_campaign=google&gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaWVOEOA6ShuudFq_IJqEKcxe-3_5ouEyk42IlbH225V7fO-WSOWjq4aAjDuEALw_wcB">Aplicativos para poupar dinheiro agora mesmo!</a></li>
   <li><a href="https://www.linkedin.com/pulse/open-banking-e-an%C3%A1lise-de-risco-cr%C3%A9dito-com-machine-learning-vivas/?originalSubdomain=pt">Open Banking e análise de risco de crédito com Machine Learning.</a></li>
   <li><a href="https://ilumeo.com.br/todos-posts/2021/07/20/data-science-para-avaliacao-de-credito">Data Science para avaliação de crédito.</a></li>
+  <li><a href="https://towardsdatascience.com/a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f">Uma abordagem de aprendizado de máquina para avaliação de risco de crédito.</a></li>
+ <li><a href="https://www.kaggle.com/datasets/laotse/credit-risk-dataset">Conjunto de dados de risco de crédito.</a></li>
   
 </ul>
 
