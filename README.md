@@ -45,7 +45,8 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://keroinovar.com.br/inteligencia-artificial-e-experiencia-do-cliente-no-setor-financeiro/">Inteligência Artificial e a experiência do cliente no setor financeiro.</a></li>
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  <li><a href="https://riconnect.rico.com.vc/blog/investimentos-sem-imposto-renda/"> 7 investimentos sem Imposto de Renda.</a></li>
+ <li><a href="https://riconnect.rico.com.vc/blog/investimentos-sem-imposto-renda/"> 7 investimentos sem Imposto de Renda.</a></li>
+ <li><a href="https://blog.nubank.com.br/investimentos-sem-imposto-de-renda-2023/"> Investimentos sem Imposto de Renda: como escolher?.</a></li>
 
  
   
