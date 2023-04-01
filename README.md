@@ -41,6 +41,9 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://webcache.googleusercontent.com/search?q=cache:_zEYhAiihvkJ:https://sol.sbc.org.br/index.php/erigo/article/download/9098/9000/&cd=17&hl=pt-PT&ct=clnk&gl=br">Modelo Preditivo para Avaliação de Crédito em Empréstimos Pessoais.</a></li>
   <li><a href="https://medium.com/data-hackers/machine-learning-para-avalia%C3%A7%C3%A3o-de-risco-de-cr%C3%A9dito-49578b03b4b8">Machine Learning para Avaliação de Risco de Crédito.</a></li>
   <li><a href="https://repositorio.unb.br/bitstream/10482/1269/1/DISSERTACAO_2008_JorcenilsonPMaia.pdf">Aplicação de Redes Neurais na predição de demanda de crédito no sistema financeiro nacional.</a></li>
+  <li><a href="https://repositorio.unisagrado.edu.br/jspui/bitstream/handle/166/1/INTELIG%C3%8ANCIA%20ARTIFICIAL.pdf">Inteligência Artificial aplicada ao mercado financeiro para tomada de decisão.</a></li>
+ 
+ 
   
 </ul>
 
