@@ -38,6 +38,9 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://ilumeo.com.br/todos-posts/2021/07/20/data-science-para-avaliacao-de-credito">Data Science para avaliação de crédito.</a></li>
   <li><a href="https://towardsdatascience.com/a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f">Uma abordagem de aprendizado de máquina para avaliação de risco de crédito.</a></li>
  <li><a href="https://www.kaggle.com/datasets/laotse/credit-risk-dataset">Conjunto de dados de risco de crédito.</a></li>
+ <li><a href="https://webcache.googleusercontent.com/search?q=cache:_zEYhAiihvkJ:https://sol.sbc.org.br/index.php/erigo/article/download/9098/9000/&cd=17&hl=pt-PT&ct=clnk&gl=br">Modelo Preditivo para Avaliação de Crédito em EmpréstimosPessoais.</a></li>
+ 
+ 
   
 </ul>
 
