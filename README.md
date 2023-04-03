@@ -18,7 +18,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
  <li> Pesquisas e anotações. <a href="https://"> Acessar </a> </li>
  <li> Páginas e Modelos. <a href="https://"> Acessar </a> </li>
  <li> Trabalho Final(Manografia). <a href="https://github.com/Diegojfsr/Projeto_Integrador_Interdisciplinar/blob/main/Trabalho%20Final(Manografia)/Intelig%C3%AAncia%20Artificial%20Aplicada%20ao%20Mercado%20Financeiro%20para%20Investimentos%2C%20Economia%20e%20Tomada%20de%20Decis%C3%A3o.pdf"> Acessar </a> </li>
- <li> Projeto Final(Aplicativo). <a href="https://github.com/Diegojfsr/Projeto_Integrador_Interdisciplinar/blob/main/Imagens/Captura%20de%20tela%202023-03-23%20151129.jpg"> Acessar </a> </li>
+ <li> Projeto Final(Aplicativo). <a href="https://github.com/Diegojfsr/Projeto_Integrador_Interdisciplinar/blob/main/Projeto%20Final(Aplicativo)/Captura%20de%20tela%202023-03-23%20151129.jpg"> Acessar </a> </li>
  
  
 </ul>
