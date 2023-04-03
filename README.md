@@ -61,6 +61,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.youtube.com/watch?v=z7DJdwSvgzE"> ADA - Como aplicar machine learning em finanças? </a></li>
   <li><a href="https://www.youtube.com/watch?v=CvfAx3_nGME&t=2s"> Codifique - Machine Learning Prevendo preço das ações na bolsa ( Python para finanças) </a></li>
   <li><a href="https://www.youtube.com/watch?v=lK8ANM7VkNU"> Nerd dos Dados - Como calcular o CREDIT SCORE com modelo de Machine Learning. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=FGFB9_eq4x4"> Criei uma biblioteca Python para tratar dados da B3. </a></li>
   
 </ul>
 
@@ -74,14 +75,14 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 
 <h2 dir="auto"> 👨🏼‍🏫 Cursos Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://"> Código Quant-Finanças Quantitativas - Do ZERO até aplicações para Finanças(Curso de Python Gratuito). </a></li>
+  <li><a href="https://www.youtube.com/watch?v=EyFzHTWiOIo"> Código Quant-Finanças Quantitativas - Do ZERO até aplicações para Finanças(Curso de Python Gratuito). </a></li>
   <li><a href="https://"> Video 2. </a></li>
   <li><a href="https://"> Video 3. </a></li>
   
 </ul>
 
 
-<h2 dir="auto"> 👩🏻‍💻 Comandos Úteis </h2>
+<h2 dir="auto"> 👩🏻‍💻 Codigos Úteis </h2>
 <ul dir="auto">
   <li><a href="https://"> Comando 1. </a></li>
   <li><a href="https://"> Comando 2. </a></li>
