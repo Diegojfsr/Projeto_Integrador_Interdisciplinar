@@ -63,6 +63,8 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.youtube.com/watch?v=lK8ANM7VkNU"> Nerd dos Dados - Como calcular o CREDIT SCORE com modelo de Machine Learning. </a></li>
   <li><a href="https://www.youtube.com/watch?v=FGFB9_eq4x4"> Código Quant Finanças Quantitativas - Criei uma biblioteca Python para tratar dados da B3. </a></li>
   <li><a href="https://www.youtube.com/watch?v=9qq0S4-4F5w&t=1s"> Peixe Babel - Dá pra prever o Dólar com Aprendizado de Máquina? </a></li>
+  <li><a href="https://www.youtube.com/watch?v=GGvsI2UH07s"> Código Quant - Finanças Quantitativas - Descobri uma Plataforma para Data Science INCRÍVEL! </a></li>
+  <li><a href="https://www.youtube.com/watch?v=knOPLwyc5u0"> Código Quant - Finanças Quantitativas - A melhor(e rápida)biblioteca Python para backtesting </a></li>
   
 </ul>
 
