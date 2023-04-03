@@ -76,9 +76,9 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 
 <h2 dir="auto"> 👨🏼‍🏫 Cursos Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://www.youtube.com/watch?v=EyFzHTWiOIo"> Código Quant-Finanças Quantitativas - Do ZERO até aplicações para Finanças(Curso de Python Gratuito). </a></li>
-  <li><a href="https://"> Video 2. </a></li>
-  <li><a href="https://"> Video 3. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=EyFzHTWiOIo"> Código Quant-Finanças Quantitativas - Do ZERO até aplicações para Finanças(Curso de Python). </a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLZj-vsMJRNhprMuIaE6HXmOkHh0NEEMtL"> Curso de Introdução às Redes Neurais Artificiais. </a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL-t7zzWJWPtygNTsgC_M8c9a-p5biCjho"> Redes Neurais Artificiais em Python. </a></li>
   
 </ul>
 
