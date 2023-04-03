@@ -49,9 +49,9 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  <li><a href="https://riconnect.rico.com.vc/blog/investimentos-sem-imposto-renda/"> 7 investimentos sem Imposto de Renda.</a></li>
- <li><a href="https://blog.nubank.com.br/investimentos-sem-imposto-de-renda-2023/"> Investimentos sem Imposto de Renda: como escolher?.</a></li>
+ <li><a href="https://blog.nubank.com.br/investimentos-sem-imposto-de-renda-2023/"> Investimentos sem Imposto de Renda: como escolher?</a></li>
 
- 
+ <li><a href="https://www.idinheiro.com.br/financaspessoais/aplicativo-para-economizar-dinheiro-10-melhores/">Aplicativo para economizar dinheiro: Conheça os 10 melhores por categoria</a></li>
   
 </ul>
 
