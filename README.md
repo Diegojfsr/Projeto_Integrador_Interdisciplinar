@@ -70,7 +70,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 <ul dir="auto">
   <li><a href="https://github.com/otavio-s-s/data_science/blob/master/An%C3%A1lise%20de%20Risco%20de%20Cr%C3%A9dito%20com%20Machine%20Learning.ipynb"> Análise de Risco de Crédito com Machine Learning. </a></li>
   <li><a href="https://github.com/Tpessia/dados-financeiros"> Fontes de Dados Financeiros. </a></li>
-  <li><a href="https://"> Repositório 3. </a></li>
+  <li><a href="https://github.com/peixebabel/Dolar-Prediction/"> Dolar-Prediction | Regressão Linear e Exponencial de Grau 2 para prever o preço do Dólar. </a></li>
   
 </ul>
 
