@@ -17,6 +17,8 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
  <li> Preparação do Projeto. <a href="https://">Acessar</a> </li>
  <li> Pesquisas e anotações. <a href="https://"> Acessar </a> </li>
  <li> Páginas e Modelos. <a href="https://"> Acessar </a> </li>
+ <li> Trabalho Final(Manografia). <a href="https://"> Acessar </a> </li>
+ <li> Projeto Final(Aplicativo). <a href="https://"> Acessar </a> </li>
  
 </ul>
 
