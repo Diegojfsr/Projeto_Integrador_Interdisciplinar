@@ -83,15 +83,6 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 </ul>
 
 
-<h2 dir="auto"> 👩🏻‍💻 Codigos Úteis </h2>
-<ul dir="auto">
-  <li><a href="https://"> Comando 1. </a></li>
-  <li><a href="https://"> Comando 2. </a></li>
-  <li><a href="https://"> Comando 3. </a></li>
-  
-</ul>
-
-
 
 
 
