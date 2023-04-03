@@ -27,7 +27,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 <h2 dir="auto"> 📝 Minhas Anotações </h2>
 <ul dir="auto">
   <li><a href="https://"> Desenvolver uma Rede Neural. </a></li>
-  <li><a href="https:/"> Desenvolver um modelo de machine learning. </a></li>
+  <li><a href="https://"> Desenvolver um modelo de machine learning. </a></li>
   <li><a href="https://"> Desenvolver um app de finanças. </a></li>
   
 </ul>
@@ -62,6 +62,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.youtube.com/watch?v=CvfAx3_nGME&t=2s"> Codifique - Machine Learning Prevendo preço das ações na bolsa ( Python para finanças) </a></li>
   <li><a href="https://www.youtube.com/watch?v=lK8ANM7VkNU"> Nerd dos Dados - Como calcular o CREDIT SCORE com modelo de Machine Learning. </a></li>
   <li><a href="https://www.youtube.com/watch?v=FGFB9_eq4x4"> Criei uma biblioteca Python para tratar dados da B3. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=9qq0S4-4F5w&t=1s"> Dá pra PREVER O DÓLAR com Aprendizado de Máquina? | Programando em 10 minutos #2. </a></li>
   
 </ul>
 
