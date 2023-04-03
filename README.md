@@ -26,9 +26,9 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 
 <h2 dir="auto"> 📝 Minhas Anotações </h2>
 <ul dir="auto">
-  <li><a href="https://"> Link 1. </a></li>
-  <li><a href="https:/"> Link 2. </a></li>
-  <li><a href="https://"> Link 3. </a></li>
+  <li><a href="https://"> Desenvolver uma Rede Neural. </a></li>
+  <li><a href="https:/"> Desenvolver um projeto que envolva Machine LEarning </a></li>
+  <li><a href="https://"> Desenvolver um app de finanças. </a></li>
   
 </ul>
 
