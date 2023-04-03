@@ -64,7 +64,13 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.youtube.com/watch?v=FGFB9_eq4x4"> Código Quant Finanças Quantitativas - Criei uma biblioteca Python para tratar dados da B3. </a></li>
   <li><a href="https://www.youtube.com/watch?v=9qq0S4-4F5w&t=1s"> Peixe Babel - Dá pra prever o Dólar com Aprendizado de Máquina? </a></li>
   <li><a href="https://www.youtube.com/watch?v=GGvsI2UH07s"> Código Quant - Finanças Quantitativas - Descobri uma Plataforma para Data Science INCRÍVEL! </a></li>
-  <li><a href="https://www.youtube.com/watch?v=knOPLwyc5u0"> Código Quant - Finanças Quantitativas - A melhor(e rápida)biblioteca Python para backtesting </a></li>
+  <li><a href="https://www.youtube.com/watch?v=knOPLwyc5u0"> Código Quant - Finanças Quantitativas - A melhor(e rápida)biblioteca Python para backtesting. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=AiBC01p58oI&t=1494s">Hashtag Programação - Como Criar uma Tela em Python Para Seus Códigos[Interface Gráfica Intuitiva com Tkinter] </a></li>
+  <li><a href="https://www.youtube.com/watch?v=cGSerUmK0CE&t=0s"> Hashtag Programação - Como Transformar Arquivo Python em Executável[Arquivo Executável] </a></li>
+  <li><a href="https://www.youtube.com/watch?v=Ol3n_BR4v70"> Hashtag Programação - Criar Janelas Para seu Código com PySimpleGUI. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=NkBcU8biV4s"> Hashtag Programação - Como Criar Aplicativos e Programas com Python - Introdução ao Kivy. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=Kp_41haOVQk"> Walisson Silva - O jeito mais fácil de converter códigos do Python em arquivos executáveis. </a></li>
+
   
 </ul>
 
