@@ -22,6 +22,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 <ol> 
 <!-- ----------------------- Minhas Anotações -------------------------------------------------------------------------------- -->
 <li><details><summary> <h2 dir="auto"> 📝 Minhas Anotações </h2> </summary><blockquote>
+  <li><a href="https://www.notion.so/diegojfsr/Projeto-Integrador-Interdisciplinar-0de5a47b2b9d4b478f11af232ad12972"> Projeto Integrador Interdisciplinar. </a></li
   <li><a href="https://"> Desenvolver uma Rede Neural. </a></li>
   <li><a href="https://"> Desenvolver um modelo de machine learning. </a></li>
   <li><a href="https://"> Desenvolver um app de finanças. </a></li>
