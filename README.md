@@ -20,13 +20,14 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <ol> 
+<!-- ----------------------- Minhas Anotações -------------------------------------------------------------------------------- -->
 <li><details><summary> <h2 dir="auto"> 📝 Minhas Anotações </h2> </summary><blockquote>
   <li><a href="https://"> Desenvolver uma Rede Neural. </a></li>
   <li><a href="https://"> Desenvolver um modelo de machine learning. </a></li>
   <li><a href="https://"> Desenvolver um app de finanças. </a></li>
 </blockquote></details> </li>
 
-
+<!-- ----------------------- Links Úteis -------------------------------------------------------------------------------- -->
 <li> <details><summary> <h2 dir="auto"> 🔗 Links Úteis  </h2> </summary><blockquote>
    <li><a href="https://cantarinobrasileiro.com.br/blog/4-aplicacoes-praticas-do-machine-learning-no-setor-financeiro/">Aplicações práticas do machine learning no setor financeiro.</a></li>
    <li><a href="https://blog.dsacademy.com.br/10-casos-de-uso-de-machine-learning-em_financas/">Casos de Uso de Machine Learning em Finanças.</a></li>
@@ -45,7 +46,7 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.idinheiro.com.br/financaspessoais/aplicativo-para-economizar-dinheiro-10-melhores/">Aplicativo para economizar dinheiro: Conheça os 10 melhores por categoria</a></li>
  </blockquote></details> </li>
 
-
+<!-- ----------------------- Videos Úteis -------------------------------------------------------------------------------- -->
 <li> <details><summary> <h2 dir="auto"> 📺 Videos Úteis </h2> </summary><blockquote>
   <li><a href="https://www.youtube.com/watch?v=z7DJdwSvgzE"> ADA - Como aplicar machine learning em finanças? </a></li>
   <li><a href="https://www.youtube.com/watch?v=CvfAx3_nGME&t=2s"> Codifique - Machine Learning Prevendo preço das ações na bolsa ( Python para finanças) </a></li>
@@ -61,13 +62,14 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.youtube.com/watch?v=Kp_41haOVQk"> Walisson Silva - O jeito mais fácil de converter códigos do Python em arquivos executáveis. </a></li>
 </blockquote></details> </li>
 
-
+<!-- ----------------------- Repositórios Úteis -------------------------------------------------------------------------------- -->
 <li> <details><summary> <h2 dir="auto"> 💼 Repositórios Úteis </h2> </summary><blockquote>
   <li><a href="https://github.com/otavio-s-s/data_science/blob/master/An%C3%A1lise%20de%20Risco%20de%20Cr%C3%A9dito%20com%20Machine%20Learning.ipynb"> Análise de Risco de Crédito com Machine Learning. </a></li>
   <li><a href="https://github.com/Tpessia/dados-financeiros"> Fontes de Dados Financeiros. </a></li>
   <li><a href="https://github.com/peixebabel/Dolar-Prediction/"> Dolar-Prediction | Regressão Linear e Exponencial de Grau 2 para prever o preço do Dólar. </a></li>
 </blockquote></details> </li>
 
+ <!-- ----------------------- Cursos Úteis -------------------------------------------------------------------------------- -->
 <li> <details><summary> <h2 dir="auto"> 👨🏼‍🏫 Cursos Úteis </h2> </summary><blockquote>
   <li><a href="https://www.youtube.com/watch?v=EyFzHTWiOIo"> Código Quant-Finanças Quantitativas - Do ZERO até aplicações para Finanças(Curso de Python). </a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLZj-vsMJRNhprMuIaE6HXmOkHh0NEEMtL"> Curso de Introdução às Redes Neurais Artificiais. </a></li>
