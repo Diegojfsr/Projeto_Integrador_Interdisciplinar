@@ -19,21 +19,19 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
  <li> Páginas e Modelos. <a href="https://"> Acessar </a> </li>
  <li> Trabalho Final(Manografia). <a href="https://github.com/Diegojfsr/Projeto_Integrador_Interdisciplinar/blob/main/Trabalho%20Final(Manografia)/Intelig%C3%AAncia%20Artificial%20Aplicada%20ao%20Mercado%20Financeiro%20para%20Investimentos%2C%20Economia%20e%20Tomada%20de%20Decis%C3%A3o.pdf"> Acessar </a> </li>
  <li> Projeto Final(Aplicativo). <a href="https://github.com/Diegojfsr/Projeto_Integrador_Interdisciplinar/blob/main/Projeto%20Final(Aplicativo)/Captura%20de%20tela%202023-03-23%20151129.jpg"> Acessar </a> </li>
- 
- 
 </ul>
 
-
-<h2 dir="auto"> 📝 Minhas Anotações </h2>
-<ul dir="auto">
+<ol>
+<li> <details><summary> <h2 dir="auto"> 📝 Minhas Anotações </h2> </summary><blockquote>
   <li><a href="https://"> Desenvolver uma Rede Neural. </a></li>
   <li><a href="https://"> Desenvolver um modelo de machine learning. </a></li>
   <li><a href="https://"> Desenvolver um app de finanças. </a></li>
-  
-</ul>
+</blockquote></details>
+</li>
 
-<h2 dir="auto"> 🔗 Links Úteis </h2>
-<ul dir="auto">
+
+<li> 
+<details><summary> <h2 dir="auto"> 🔗 Links Úteis  </h2> </summary><blockquote>
   <li><a href="https://cantarinobrasileiro.com.br/blog/4-aplicacoes-praticas-do-machine-learning-no-setor-financeiro/">Aplicações práticas do machine learning no setor financeiro.</a></li>
   <li><a href="https://blog.dsacademy.com.br/10-casos-de-uso-de-machine-learning-em_financas/">Casos de Uso de Machine Learning em Finanças.</a></li>
   <li><a href="https://novoidealconsultoria.com.br/dicas/aplicativos-para-poupar-dinheiro-agora-mesmo/?pht=36801570733355363&utm_source=google&utm_medium=cpc&utm_campaign=google&gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaWVOEOA6ShuudFq_IJqEKcxe-3_5ouEyk42IlbH225V7fO-WSOWjq4aAjDuEALw_wcB">Aplicativos para poupar dinheiro agora mesmo!</a></li>
@@ -46,18 +44,15 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://repositorio.unb.br/bitstream/10482/1269/1/DISSERTACAO_2008_JorcenilsonPMaia.pdf">Aplicação de Redes Neurais na predição de demanda de crédito no sistema financeiro nacional.</a></li>
   <li><a href="https://repositorio.unisagrado.edu.br/jspui/bitstream/handle/166/1/INTELIG%C3%8ANCIA%20ARTIFICIAL.pdf">Inteligência Artificial aplicada ao mercado financeiro para tomada de decisão.</a></li>
   <li><a href="https://keroinovar.com.br/inteligencia-artificial-e-experiencia-do-cliente-no-setor-financeiro/">Inteligência Artificial e a experiência do cliente no setor financeiro.</a></li>
-
  <li><a href="https://riconnect.rico.com.vc/blog/investimentos-sem-imposto-renda/"> 7 investimentos sem Imposto de Renda.</a></li>
  <li><a href="https://blog.nubank.com.br/investimentos-sem-imposto-de-renda-2023/"> Investimentos sem Imposto de Renda: como escolher?</a></li>
-
  <li><a href="https://www.idinheiro.com.br/financaspessoais/aplicativo-para-economizar-dinheiro-10-melhores/">Aplicativo para economizar dinheiro: Conheça os 10 melhores por categoria</a></li>
-  
-</ul>
+</blockquote></details>
+</li>
 
 
-
-<h2 dir="auto"> 📺 Videos Úteis </h2>
-<ul dir="auto">
+<li>
+<details><summary> <h2 dir="auto"> 📺 Videos Úteis </h2> </summary><blockquote>
   <li><a href="https://www.youtube.com/watch?v=z7DJdwSvgzE"> ADA - Como aplicar machine learning em finanças? </a></li>
   <li><a href="https://www.youtube.com/watch?v=CvfAx3_nGME&t=2s"> Codifique - Machine Learning Prevendo preço das ações na bolsa ( Python para finanças) </a></li>
   <li><a href="https://www.youtube.com/watch?v=lK8ANM7VkNU"> Nerd dos Dados - Como calcular o CREDIT SCORE com modelo de Machine Learning. </a></li>
@@ -70,34 +65,61 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.youtube.com/watch?v=Ol3n_BR4v70"> Hashtag Programação - Criar Janelas Para seu Código com PySimpleGUI. </a></li>
   <li><a href="https://www.youtube.com/watch?v=NkBcU8biV4s"> Hashtag Programação - Como Criar Aplicativos e Programas com Python - Introdução ao Kivy. </a></li>
   <li><a href="https://www.youtube.com/watch?v=Kp_41haOVQk"> Walisson Silva - O jeito mais fácil de converter códigos do Python em arquivos executáveis. </a></li>
+</blockquote></details>
+</li>
 
-  
-</ul>
 
-<h2 dir="auto"> 💼 Repositórios Úteis </h2>
-<ul dir="auto">
+<li>
+<details><summary> <h2 dir="auto"> 💼 Repositórios Úteis </h2> </summary><blockquote>
   <li><a href="https://github.com/otavio-s-s/data_science/blob/master/An%C3%A1lise%20de%20Risco%20de%20Cr%C3%A9dito%20com%20Machine%20Learning.ipynb"> Análise de Risco de Crédito com Machine Learning. </a></li>
   <li><a href="https://github.com/Tpessia/dados-financeiros"> Fontes de Dados Financeiros. </a></li>
   <li><a href="https://github.com/peixebabel/Dolar-Prediction/"> Dolar-Prediction | Regressão Linear e Exponencial de Grau 2 para prever o preço do Dólar. </a></li>
-  
-</ul>
+</blockquote></details>  
+</li>
 
-<h2 dir="auto"> 👨🏼‍🏫 Cursos Úteis </h2>
-<ul dir="auto">
+<li> 
+<details><summary> <h2 dir="auto"> 👨🏼‍🏫 Cursos Úteis </h2> </summary><blockquote>
   <li><a href="https://www.youtube.com/watch?v=EyFzHTWiOIo"> Código Quant-Finanças Quantitativas - Do ZERO até aplicações para Finanças(Curso de Python). </a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLZj-vsMJRNhprMuIaE6HXmOkHh0NEEMtL"> Curso de Introdução às Redes Neurais Artificiais. </a></li>
   <li><a href="https://www.youtube.com/playlist?list=PL-t7zzWJWPtygNTsgC_M8c9a-p5biCjho"> Redes Neurais Artificiais em Python. </a></li>
-  
-</ul>
+</blockquote></details>  
+</li>
 
-
-
-
-
-
+</ol>
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
   Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
   saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 </p>
+
+
+
+<!--
+<ol>
+<li> <details><summary>Hello</summary><blockquote>
+  <details><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
+</li>
+<li> <details><summary>Hello</summary><blockquote>
+  <details><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
+</li>
+<li> <details><summary>Hello</summary><blockquote>
+  <details><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
+</li>
+</ol>
+-->
+
+
+
+
+
+
