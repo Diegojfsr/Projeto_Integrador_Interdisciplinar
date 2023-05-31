@@ -104,6 +104,13 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 </p>
 
+<p dir="auto"> 
+ <em>
+  Projeto desenvolvido utilizando os conhecimentos adquiridos durante meu V periodo de formação do Curso de <strong> GTI </strong>
+  na disciplina de Visualização de dados do <a href="https://www.ifsudestemg.edu.br/muriae"> <strong> IF Sudeste MG </strong></a>
+ </em>  ❤️💚💚
+</p>
+
 
 
 <!--
